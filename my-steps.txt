@@ -97,7 +97,8 @@ git branch -M main
 git push -u origin main
 
 ### Step 6
-
+touch menu.txt
+ls
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
